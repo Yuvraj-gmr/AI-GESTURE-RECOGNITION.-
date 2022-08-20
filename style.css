@@ -1,0 +1,39 @@
+body
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-size: cover;
+}
+
+.heading
+{
+  font-size: 18px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 7px rgb(40, 6, 6);
+
+}
+
+.note
+{
+    font-size: 13px;
+    color: rgb(53, 32, 135);
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 255, 255);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 7px rgb(0, 0, 0);
+    
+}
